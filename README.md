@@ -1,21 +1,30 @@
 # notebooks 0.0.1
 
-## about
+## About
 
-I believe that simple is better.
+Throughout these notebooks, we'll be exploring the different facets of quantitative analysis.
 
-The idea behind this project is to build an investment strategy that will better help me (or you) invest in Bitcoin (or whatever asset).
+Often, I'll be making reference to the [mlfinlab](https://mlfinlab.readthedocs.io/en/latest/getting_started/installation.html) library, and my personal project [trader](https://github.com/MichaelDragan/trader) which we'll be using to interact with various exchanges.
 
-The hope is that through every iteration, we'll find something that will improve our strategy. It's an incremental approach.
+My hope is that with every notebook published here, you'll discover something that can help you with your trading strategy.
 
-I've created a simple starting point in the 00_introduction notebook. Every now and again, I'll be adding a new notebook outlining some new hypotheses. Stay tuned!
+If you're looking for a starting point, check this out: [00_introduction notebook](https://github.com/MichaelDragan/notebooks/blob/master/00_introduction.ipynb).
 
-I hope you enjoy going through these as much as I did making them!
+Every now and again, I'll be adding a new notebook testing out some new idea. Stay tuned!
 
-Please send me some feedback if you have any!
+Please send me some feedback or suggestions if you have any!
 
-## upcoming (tentative)
-1. 01_alternative_candle_sticks
+## Getting Started
+
+### Installation
+
+Docker instructions coming soon!
+
+## Future
+
+### Tentative Release Schedule
+
+1. ~~01_standard_bars~~
 2. 02_labelling
 3. 03_feature_engineering
 4. 04_clustering
@@ -23,9 +32,9 @@ Please send me some feedback if you have any!
 6. 06_model_selection
 7. 07_hyperparameter_tuning
 8. 08_backtesting
+9. 09_diversifying_portfolios
 
-## todo
+### TODO
+
 1. Dockerize & figure out dependencies
 2. Improve documentation
-
-## changelog
